@@ -12,6 +12,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ywroh2@gmail.com)](mailto:ywroh2@gmail.com)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ywroh)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ywroh/ywroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
